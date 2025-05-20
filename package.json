@@ -6,9 +6,11 @@
   "scripts": {
     "start": "vite",
     "build": "vite build",
+    "vercel-build": "npm ci && npm run build",
     "dev": "vite dev",
     "preview": "vite preview",
     "serve": "vite preview",
+    
     "format": "prettier --write \"src/**/*.{js,jsx,css,md,json}\""
   },
   "dependencies": {
