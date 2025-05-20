@@ -34,4 +34,4 @@ npm run build
 ```
 
 ## Live Demo
-[Klik di sini](https://iqbalmp.vercel.app)
+[iqblmp-furniture.vercel.app](https://iqblmp-furniture.vercel.app)
