@@ -4,13 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "vite",
+      "dev": "vite",
     "build": "vite build",
-    "vercel-build": "npm ci && npm run build",
-    "dev": "vite dev",
+    "lint": "eslint .",
     "preview": "vite preview",
     "serve": "vite preview",
-    
     "format": "prettier --write \"src/**/*.{js,jsx,css,md,json}\""
   },
   "dependencies": {
